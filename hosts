@@ -1,0 +1,2 @@
+prod-web-1 ansible_host=63.177.49.34 ansible_user=root ssh_key_file=/Users/max/.ssh/aws_key.pem
+stage-web-1 ansible_host=63.177.48.157 ansible_user=root ssh_key_file=/Users/max/.ssh/aws_key.pem
